@@ -25,7 +25,7 @@ for line in sys.stdin:
             else:
                 sys.stdout.write(chunk)       
             lastButOne = last
-            last = chunk
+            last = chunk.lower()
         else:
             sys.stdout.write(chunk)
 
