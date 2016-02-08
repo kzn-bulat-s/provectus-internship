@@ -1,0 +1,2134 @@
+<table width="100%">
+    <tbody><tr>
+        <th>терминал</th>
+        <th>статус</th>
+        <th>номер рейса</th>
+        <th>направление</th>
+        <th>авиакомпания</th>
+        <th>тип ВС</th>
+		<th>время расписания</th>
+        <th>дата прилета</th>
+        <th>(фактическое)</th>
+    </tr>
+	<tr style="display:none;">
+		<td>1</td>
+		<td>2</td>
+		<td>3</td>
+		<td>4</td>
+		<td>5</td>
+		<td>6</td>
+		<td id="sortp2">7</td>
+		<td>8</td>
+		<td>9</td>
+	</tr>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>СТАМБУЛ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td>вылетел<div class="img_state" style="background-position: -12px -290px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401010&amp;type=vilet&amp;lang=ru" class="owTrig"> 						TK 428<!-- номер рейса --> 						<span id="d_id" style="display:none">9401010</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401010&amp;type=vilet&amp;lang=ru" class="owTrig">СТАМБУЛ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585990" class="ac_logo"><img class="shadow_img" src="/airport/logo4/TK.gif" height="30px" alt="ТУРЕЦКИЕ АВИАЛИНИИ" title="ТУРЕЦКИЕ АВИАЛИНИИ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>Б737<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>03:05<div id="serc" style="display: none;">03-07</div><!-- Время дата --></td>
+			<td>
+								07.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                03:05        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-ISTANBUL<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 07.02.2016 07:15<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> 07.02.2016 06:35<!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ТК<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> THY<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> TK<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>САНКТ ПЕТЕРБУРГ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td>вылетел<div class="img_state" style="background-position: -12px -290px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401012&amp;type=vilet&amp;lang=ru" class="owTrig"> 						ПЛ 6766<!-- номер рейса --> 						<span id="d_id" style="display:none">9401012</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401012&amp;type=vilet&amp;lang=ru" class="owTrig">САНКТ ПЕТЕРБУРГ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2586001" class="ac_logo"><img class="shadow_img" src="/airport/logo4/FV.gif" height="30px" alt="РОССИЯ" title="РОССИЯ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>А319<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>04:15<div id="serc" style="display: none;">04-07</div><!-- Время дата --></td>
+			<td>
+								07.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                04:15        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-ST.PETERSBURG<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 07.02.2016 06:25<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> 07.02.2016 06:13<!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ПЛ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> SDM<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> FV<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ШРМ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td>вылетел<div class="img_state" style="background-position: -12px -290px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401011&amp;type=vilet&amp;lang=ru" class="owTrig"> 						SU 1197<!-- номер рейса --> 						<span id="d_id" style="display:none">9401011</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401011&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ШРМ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585992" class="ac_logo"><img class="shadow_img" src="/airport/logo4/SU.gif" height="30px" alt="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" title="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>А321<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>05:00<div id="serc" style="display: none;">05-07</div><!-- Время дата --></td>
+			<td>
+								07.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                05:00        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW SVO<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 07.02.2016 06:30<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> 07.02.2016 06:18<!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> СУ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> AFL<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> SU<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>САНКТ ПЕТЕРБУРГ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td>вылетел<div class="img_state" style="background-position: -12px -290px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401013&amp;type=vilet&amp;lang=ru" class="owTrig"> 						ЮВ 521<!-- номер рейса --> 						<span id="d_id" style="display:none">9401013</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401013&amp;type=vilet&amp;lang=ru" class="owTrig">САНКТ ПЕТЕРБУРГ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=7564165" class="ac_logo"><img class="shadow_img" src="/airport/logo4/UVT.gif" height="30px" alt="ЮВТ АЭРО" title="ЮВТ АЭРО" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>CRJ 2<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>06:55<div id="serc" style="display: none;">06-07</div><!-- Время дата --></td>
+			<td>
+								07.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                06:55        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-ST.PETERSBURG<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 07.02.2016 09:15<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ЮВ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> UVT<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> UVT<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ВНК</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td>вылетел<div class="img_state" style="background-position: -12px -290px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401014&amp;type=vilet&amp;lang=ru" class="owTrig"> 						ЮТ 344<!-- номер рейса --> 						<span id="d_id" style="display:none">9401014</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401014&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ВНК</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585998" class="ac_logo"><img class="shadow_img" src="/airport/logo4/UT.gif" height="30px" alt="ЮТЭЙР" title="ЮТЭЙР" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>АТ72<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>07:15<div id="serc" style="display: none;">07-07</div><!-- Время дата --></td>
+			<td>
+								07.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                07:15        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW VKO<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 07.02.2016 08:55<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ЮТ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> UTA<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> UT<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ШРМ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td>вылетел<div class="img_state" style="background-position: -12px -290px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401015&amp;type=vilet&amp;lang=ru" class="owTrig"> 						SU 1271<!-- номер рейса --> 						<span id="d_id" style="display:none">9401015</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401015&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ШРМ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585992" class="ac_logo"><img class="shadow_img" src="/airport/logo4/SU.gif" height="30px" alt="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" title="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>СУ95<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>08:55<div id="serc" style="display: none;">08-07</div><!-- Время дата --></td>
+			<td>
+								07.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/red_clock.png?1369826085" style="height:25px" alt="clock">                09:49        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW SVO<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 07.02.2016 10:30<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> 07.02.2016 10:59<!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> СУ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> AFL<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> SU<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>ЧЕЛЯБИНСК - НОВОСИБИРСК</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td>вылетел<div class="img_state" style="background-position: -12px -290px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401016&amp;type=vilet&amp;lang=ru" class="owTrig"> 						ЮВ 571<!-- номер рейса --> 						<span id="d_id" style="display:none">9401016</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401016&amp;type=vilet&amp;lang=ru" class="owTrig">ЧЕЛЯБИНСК - НОВОСИБИРСК</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=7564165" class="ac_logo"><img class="shadow_img" src="/airport/logo4/UVT.gif" height="30px" alt="ЮВТ АЭРО" title="ЮВТ АЭРО" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>CRJ 2<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>09:05<div id="serc" style="display: none;">09-07</div><!-- Время дата --></td>
+			<td>
+								07.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                09:05        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-CHELYABINSK - NOVOSIBIRSK<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 07.02.2016 10:15/<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> 07.02.2016 10:21<!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ЮВ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> UVT<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> UVT<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>КИРОВ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td>вылетел<div class="img_state" style="background-position: -12px -290px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401017&amp;type=vilet&amp;lang=ru" class="owTrig"> 						УЭ 45<!-- номер рейса --> 						<span id="d_id" style="display:none">9401017</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401017&amp;type=vilet&amp;lang=ru" class="owTrig">КИРОВ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2586010" class="ac_logo"><img class="shadow_img" src="/airport/logo4/O7.gif" height="30px" alt="АЭРОПОРТ ОРЕНБУРГ" title="АЭРОПОРТ ОРЕНБУРГ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>Л410<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>10:05<div id="serc" style="display: none;">10-07</div><!-- Время дата --></td>
+			<td>
+								07.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/red_clock.png?1369826085" style="height:25px" alt="clock">                11:50        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-KIROV<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 07.02.2016 11:15<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> УЭ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> O7<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> O7<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>ДУШАНБЕ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td>вылетел<div class="img_state" style="background-position: -12px -290px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401018&amp;type=vilet&amp;lang=ru" class="owTrig"> 						SZ 206<!-- номер рейса --> 						<span id="d_id" style="display:none">9401018</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401018&amp;type=vilet&amp;lang=ru" class="owTrig">ДУШАНБЕ</span><!-- город прилета --></td>
+            <td>
+                <a href="" onclick="return false;" class="ac_logo"><img class="shadow_img" src="/airport/logo4/SZ.gif" height="30px" alt="СОМОН ЭЙР" title="СОМОН ЭЙР" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>Б738<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>10:40<div id="serc" style="display: none;">10-07</div><!-- Время дата --></td>
+			<td>
+								07.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                10:40        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-DUSHANBE<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 07.02.2016 14:00<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> 07.02.2016 13:58<!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> СЗ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> SMR<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> SZ<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ШРМ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td>вылетел<div class="img_state" style="background-position: -12px -290px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401019&amp;type=vilet&amp;lang=ru" class="owTrig"> 						SU 1277<!-- номер рейса --> 						<span id="d_id" style="display:none">9401019</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401019&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ШРМ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585992" class="ac_logo"><img class="shadow_img" src="/airport/logo4/SU.gif" height="30px" alt="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" title="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>А320<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>10:55<div id="serc" style="display: none;">10-07</div><!-- Время дата --></td>
+			<td>
+								07.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                10:55        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW SVO<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 07.02.2016 12:30<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> СУ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> AFL<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> SU<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ДМД</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td>вылетел<div class="img_state" style="background-position: -12px -290px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401020&amp;type=vilet&amp;lang=ru" class="owTrig"> 						S7 62<!-- номер рейса --> 						<span id="d_id" style="display:none">9401020</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401020&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ДМД</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585989" class="ac_logo"><img class="shadow_img" src="/airport/logo4/S7.gif" height="30px" alt="ОАО АВИАКОМПАНИЯ СИБИРЬ" title="ОАО АВИАКОМПАНИЯ СИБИРЬ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>А319<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>12:00<div id="serc" style="display: none;">12-07</div><!-- Время дата --></td>
+			<td>
+								07.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                12:00        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW DME<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 07.02.2016 13:45<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> 07.02.2016 13:10<!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> С7<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> SBI<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> S7<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ШРМ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td>вылетел<div class="img_state" style="background-position: -12px -290px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401021&amp;type=vilet&amp;lang=ru" class="owTrig"> 						SU 1191<!-- номер рейса --> 						<span id="d_id" style="display:none">9401021</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401021&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ШРМ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585992" class="ac_logo"><img class="shadow_img" src="/airport/logo4/SU.gif" height="30px" alt="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" title="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>А320<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>12:20<div id="serc" style="display: none;">12-07</div><!-- Время дата --></td>
+			<td>
+								07.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                12:20        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW SVO<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 07.02.2016 13:50<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> 07.02.2016 13:36<!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> СУ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> AFL<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> SU<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>САМАРА</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td>вылетел<div class="img_state" style="background-position: -12px -290px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401022&amp;type=vilet&amp;lang=ru" class="owTrig"> 						УЭ 41<!-- номер рейса --> 						<span id="d_id" style="display:none">9401022</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401022&amp;type=vilet&amp;lang=ru" class="owTrig">САМАРА</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2586010" class="ac_logo"><img class="shadow_img" src="/airport/logo4/O7.gif" height="30px" alt="АЭРОПОРТ ОРЕНБУРГ" title="АЭРОПОРТ ОРЕНБУРГ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>Л410<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>13:50<div id="serc" style="display: none;">13-07</div><!-- Время дата --></td>
+			<td>
+								07.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/red_clock.png?1369826085" style="height:25px" alt="clock">                15:35        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-SAMARA<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 07.02.2016 14:55<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> 07.02.2016 16:26<!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> УЭ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> O7<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> O7<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>УФА - СУРГУТ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td>вылетел<div class="img_state" style="background-position: -12px -290px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401023&amp;type=vilet&amp;lang=ru" class="owTrig"> 						ЮТ 104<!-- номер рейса --> 						<span id="d_id" style="display:none">9401023</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401023&amp;type=vilet&amp;lang=ru" class="owTrig">УФА - СУРГУТ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585998" class="ac_logo"><img class="shadow_img" src="/airport/logo4/UT.gif" height="30px" alt="ЮТЭЙР" title="ЮТЭЙР" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>AT72<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>14:00<div id="serc" style="display: none;">14-07</div><!-- Время дата --></td>
+			<td>
+								07.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                14:00        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-UFA - SURGUT<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 07.02.2016 15:10/<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> 07.02.2016 15:02<!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ЮТ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> UTA<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> UT<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ВНК</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td>вылетел<div class="img_state" style="background-position: -12px -290px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401025&amp;type=vilet&amp;lang=ru" class="owTrig"> 						ЮТ 326<!-- номер рейса --> 						<span id="d_id" style="display:none">9401025</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401025&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ВНК</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585998" class="ac_logo"><img class="shadow_img" src="/airport/logo4/UT.gif" height="30px" alt="ЮТЭЙР" title="ЮТЭЙР" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>Б735<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>15:25<div id="serc" style="display: none;">15-07</div><!-- Время дата --></td>
+			<td>
+								07.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                15:25        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW VKO<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 07.02.2016 16:50<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> 07.02.2016 16:41<!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ЮТ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> UTA<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> UT<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ДМД</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td>вылетел<div class="img_state" style="background-position: -12px -290px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401026&amp;type=vilet&amp;lang=ru" class="owTrig"> 						S7 66<!-- номер рейса --> 						<span id="d_id" style="display:none">9401026</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401026&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ДМД</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585989" class="ac_logo"><img class="shadow_img" src="/airport/logo4/S7.gif" height="30px" alt="ОАО АВИАКОМПАНИЯ СИБИРЬ" title="ОАО АВИАКОМПАНИЯ СИБИРЬ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>А319<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>17:00<div id="serc" style="display: none;">17-07</div><!-- Время дата --></td>
+			<td>
+								07.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                17:00        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW DME<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 07.02.2016 18:45<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> 07.02.2016 18:24<!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> С7<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> SBI<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> S7<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ШРМ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td>вылетел<div class="img_state" style="background-position: -12px -290px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401024&amp;type=vilet&amp;lang=ru" class="owTrig"> 						SU 1193<!-- номер рейса --> 						<span id="d_id" style="display:none">9401024</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401024&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ШРМ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585992" class="ac_logo"><img class="shadow_img" src="/airport/logo4/SU.gif" height="30px" alt="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" title="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>А320<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>18:15<div id="serc" style="display: none;">18-07</div><!-- Время дата --></td>
+			<td>
+								07.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                18:15        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW SVO<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 07.02.2016 19:55<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> 07.02.2016 19:51<!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> СУ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> AFL<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> SU<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>НИЖНИЙ НОВГОРОД</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td>вылетел<div class="img_state" style="background-position: -12px -290px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401027&amp;type=vilet&amp;lang=ru" class="owTrig"> 						ЮВ 539<!-- номер рейса --> 						<span id="d_id" style="display:none">9401027</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401027&amp;type=vilet&amp;lang=ru" class="owTrig">НИЖНИЙ НОВГОРОД</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=7564165" class="ac_logo"><img class="shadow_img" src="/airport/logo4/UVT.gif" height="30px" alt="ЮВТ АЭРО" title="ЮВТ АЭРО" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>CRJ 2<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>19:00<div id="serc" style="display: none;">19-07</div><!-- Время дата --></td>
+			<td>
+								07.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                19:00        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-NIZHNIY NOVGOROD<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 07.02.2016 20:00<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> 07.02.2016 19:43<!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ЮВ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> UVT<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> UVT<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ДМД</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td>вылетел<div class="img_state" style="background-position: -12px -290px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401028&amp;type=vilet&amp;lang=ru" class="owTrig"> 						S7 80<!-- номер рейса --> 						<span id="d_id" style="display:none">9401028</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401028&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ДМД</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585989" class="ac_logo"><img class="shadow_img" src="/airport/logo4/S7.gif" height="30px" alt="ОАО АВИАКОМПАНИЯ СИБИРЬ" title="ОАО АВИАКОМПАНИЯ СИБИРЬ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>А319<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>19:50<div id="serc" style="display: none;">19-07</div><!-- Время дата --></td>
+			<td>
+								07.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                19:50        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW DME<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 07.02.2016 21:35<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> 07.02.2016 21:01<!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> С7<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> SBI<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> S7<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>КРАСНОДАР</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td>вылетел<div class="img_state" style="background-position: -12px -290px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401029&amp;type=vilet&amp;lang=ru" class="owTrig"> 						ЮВ 573<!-- номер рейса --> 						<span id="d_id" style="display:none">9401029</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401029&amp;type=vilet&amp;lang=ru" class="owTrig">КРАСНОДАР</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=7564165" class="ac_logo"><img class="shadow_img" src="/airport/logo4/UVT.gif" height="30px" alt="ЮВТ АЭРО" title="ЮВТ АЭРО" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>CRJ 2<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>20:30<div id="serc" style="display: none;">20-07</div><!-- Время дата --></td>
+			<td>
+								07.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                20:30        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-KRASNODAR<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 07.02.2016 22:45<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> 07.02.2016 22:24<!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ЮВ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> UVT<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> UVT<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ШРМ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td>вылетел<div class="img_state" style="background-position: -12px -290px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401030&amp;type=vilet&amp;lang=ru" class="owTrig"> 						SU 1195<!-- номер рейса --> 						<span id="d_id" style="display:none">9401030</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401030&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ШРМ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585992" class="ac_logo"><img class="shadow_img" src="/airport/logo4/SU.gif" height="30px" alt="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" title="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>А320<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>20:35<div id="serc" style="display: none;">20-07</div><!-- Время дата --></td>
+			<td>
+								07.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                20:35        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW SVO<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 07.02.2016 22:10<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> 07.02.2016 21:56<!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> СУ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> AFL<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> SU<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>АЛМАТЫ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td>вылетел<div class="img_state" style="background-position: -12px -290px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401031&amp;type=vilet&amp;lang=ru" class="owTrig"> 						KC 150<!-- номер рейса --> 						<span id="d_id" style="display:none">9401031</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401031&amp;type=vilet&amp;lang=ru" class="owTrig">АЛМАТЫ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585994" class="ac_logo"><img class="shadow_img" src="/airport/logo4/KC.gif" height="30px" alt="ЭЙР АСТАНА" title="ЭЙР АСТАНА" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>Е190<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>21:20<div id="serc" style="display: none;">21-07</div><!-- Время дата --></td>
+			<td>
+								07.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                21:20        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-ALMATY<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 00:50<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> КС<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> KZR<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> KC<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ДМД</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td>вылетел<div class="img_state" style="background-position: -12px -290px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401032&amp;type=vilet&amp;lang=ru" class="owTrig"> 						S7 64<!-- номер рейса --> 						<span id="d_id" style="display:none">9401032</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9401032&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ДМД</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585989" class="ac_logo"><img class="shadow_img" src="/airport/logo4/S7.gif" height="30px" alt="ОАО АВИАКОМПАНИЯ СИБИРЬ" title="ОАО АВИАКОМПАНИЯ СИБИРЬ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>А319<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>21:50<div id="serc" style="display: none;">21-07</div><!-- Время дата --></td>
+			<td>
+								07.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                21:50        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW DME<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 07.02.2016 23:35<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> 07.02.2016 23:05<!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> С7<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> SBI<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> S7<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+            
+                                                                                                                                                                                                                                                                                                                                                        <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>СТАМБУЛ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td>регистрация открыта<div class="img_state" style="background-position: -12px -575px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406974&amp;type=vilet&amp;lang=ru" class="owTrig"> 						TK 428<!-- номер рейса --> 						<span id="d_id" style="display:none">9406974</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406974&amp;type=vilet&amp;lang=ru" class="owTrig">СТАМБУЛ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585990" class="ac_logo"><img class="shadow_img" src="/airport/logo4/TK.gif" height="30px" alt="ТУРЕЦКИЕ АВИАЛИНИИ" title="ТУРЕЦКИЕ АВИАЛИНИИ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>B738<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>03:05<div id="serc" style="display: none;">03-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                03:05        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-ISTANBUL<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 07:15<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ТК<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> THY<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> TK<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>САНКТ ПЕТЕРБУРГ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406975&amp;type=vilet&amp;lang=ru" class="owTrig"> 						ПЛ 6766<!-- номер рейса --> 						<span id="d_id" style="display:none">9406975</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406975&amp;type=vilet&amp;lang=ru" class="owTrig">САНКТ ПЕТЕРБУРГ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2586001" class="ac_logo"><img class="shadow_img" src="/airport/logo4/FV.gif" height="30px" alt="РОССИЯ" title="РОССИЯ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>A319<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>04:15<div id="serc" style="display: none;">04-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                04:15        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-ST.PETERSBURG<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 06:25<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ПЛ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> SDM<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> FV<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ШРМ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406976&amp;type=vilet&amp;lang=ru" class="owTrig"> 						SU 1197<!-- номер рейса --> 						<span id="d_id" style="display:none">9406976</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406976&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ШРМ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585992" class="ac_logo"><img class="shadow_img" src="/airport/logo4/SU.gif" height="30px" alt="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" title="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>A320<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>05:00<div id="serc" style="display: none;">05-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                05:00        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW SVO<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 06:30<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> СУ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> AFL<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> SU<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ДМД</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406977&amp;type=vilet&amp;lang=ru" class="owTrig"> 						S7 70<!-- номер рейса --> 						<span id="d_id" style="display:none">9406977</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406977&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ДМД</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585989" class="ac_logo"><img class="shadow_img" src="/airport/logo4/S7.gif" height="30px" alt="ОАО АВИАКОМПАНИЯ СИБИРЬ" title="ОАО АВИАКОМПАНИЯ СИБИРЬ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>A319<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>06:20<div id="serc" style="display: none;">06-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                06:20        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW DME<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 08:05<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> С7<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> SBI<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> S7<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>ПЕРМЬ - ХАНТЫ МАНСИЙСК</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406978&amp;type=vilet&amp;lang=ru" class="owTrig"> 						ЮВ 575<!-- номер рейса --> 						<span id="d_id" style="display:none">9406978</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406978&amp;type=vilet&amp;lang=ru" class="owTrig">ПЕРМЬ - ХАНТЫ МАНСИЙСК</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=7564165" class="ac_logo"><img class="shadow_img" src="/airport/logo4/UVT.gif" height="30px" alt="ЮВТ АЭРО" title="ЮВТ АЭРО" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>CRJ2<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>07:00<div id="serc" style="display: none;">07-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                07:00        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-PERM - KHANTY-MANSIYSK<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 08:00/<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ЮВ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> UVT<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> UVT<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ВНК</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406979&amp;type=vilet&amp;lang=ru" class="owTrig"> 						ЮТ 344<!-- номер рейса --> 						<span id="d_id" style="display:none">9406979</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406979&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ВНК</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585998" class="ac_logo"><img class="shadow_img" src="/airport/logo4/UT.gif" height="30px" alt="ЮТЭЙР" title="ЮТЭЙР" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>B735<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>07:15<div id="serc" style="display: none;">07-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                07:15        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW VKO<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 08:55<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ЮТ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> UTA<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> UT<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>ПЕРМЬ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406982&amp;type=vilet&amp;lang=ru" class="owTrig"> 						УЭ 79<!-- номер рейса --> 						<span id="d_id" style="display:none">9406982</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406982&amp;type=vilet&amp;lang=ru" class="owTrig">ПЕРМЬ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2586010" class="ac_logo"><img class="shadow_img" src="/airport/logo4/O7.gif" height="30px" alt="АЭРОПОРТ ОРЕНБУРГ" title="АЭРОПОРТ ОРЕНБУРГ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>L410<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>08:05<div id="serc" style="display: none;">08-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                08:05        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-PERM<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 10:00<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> УЭ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> O7<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> O7<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ШРМ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406983&amp;type=vilet&amp;lang=ru" class="owTrig"> 						SU 1271<!-- номер рейса --> 						<span id="d_id" style="display:none">9406983</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406983&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ШРМ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585992" class="ac_logo"><img class="shadow_img" src="/airport/logo4/SU.gif" height="30px" alt="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" title="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>A320<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>08:55<div id="serc" style="display: none;">08-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                08:55        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW SVO<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 10:30<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> СУ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> AFL<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> SU<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>КИРОВ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406984&amp;type=vilet&amp;lang=ru" class="owTrig"> 						УЭ 45<!-- номер рейса --> 						<span id="d_id" style="display:none">9406984</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406984&amp;type=vilet&amp;lang=ru" class="owTrig">КИРОВ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2586010" class="ac_logo"><img class="shadow_img" src="/airport/logo4/O7.gif" height="30px" alt="АЭРОПОРТ ОРЕНБУРГ" title="АЭРОПОРТ ОРЕНБУРГ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>L410<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>10:05<div id="serc" style="display: none;">10-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                10:05        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-KIROV<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 11:15<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> УЭ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> O7<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> O7<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>НИЖНЕВАРТОВСК</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406980&amp;type=vilet&amp;lang=ru" class="owTrig"> 						ЮВ 574<!-- номер рейса --> 						<span id="d_id" style="display:none">9406980</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406980&amp;type=vilet&amp;lang=ru" class="owTrig">НИЖНЕВАРТОВСК</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=7564165" class="ac_logo"><img class="shadow_img" src="/airport/logo4/UVT.gif" height="30px" alt="ЮВТ АЭРО" title="ЮВТ АЭРО" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>CRJ2<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>10:10<div id="serc" style="display: none;">10-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                10:10        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-NIZHNEVARTOVSK<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 12:35<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ЮВ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> UVT<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> UVT<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ШРМ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406985&amp;type=vilet&amp;lang=ru" class="owTrig"> 						SU 1277<!-- номер рейса --> 						<span id="d_id" style="display:none">9406985</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406985&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ШРМ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585992" class="ac_logo"><img class="shadow_img" src="/airport/logo4/SU.gif" height="30px" alt="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" title="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>A320<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>10:55<div id="serc" style="display: none;">10-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                10:55        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW SVO<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 12:30<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> СУ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> AFL<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> SU<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ДМД</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406986&amp;type=vilet&amp;lang=ru" class="owTrig"> 						S7 62<!-- номер рейса --> 						<span id="d_id" style="display:none">9406986</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406986&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ДМД</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585989" class="ac_logo"><img class="shadow_img" src="/airport/logo4/S7.gif" height="30px" alt="ОАО АВИАКОМПАНИЯ СИБИРЬ" title="ОАО АВИАКОМПАНИЯ СИБИРЬ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>A320<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>12:00<div id="serc" style="display: none;">12-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                12:00        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW DME<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 13:45<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> С7<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> SBI<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> S7<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ШРМ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406987&amp;type=vilet&amp;lang=ru" class="owTrig"> 						SU 1191<!-- номер рейса --> 						<span id="d_id" style="display:none">9406987</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406987&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ШРМ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585992" class="ac_logo"><img class="shadow_img" src="/airport/logo4/SU.gif" height="30px" alt="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" title="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>A320<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>12:20<div id="serc" style="display: none;">12-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                12:20        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW SVO<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 13:50<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> СУ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> AFL<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> SU<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>ЧЕЛЯБИНСК - НОВОСИБИРСК</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406981&amp;type=vilet&amp;lang=ru" class="owTrig"> 						ИК 7756<!-- номер рейса --> 						<span id="d_id" style="display:none">9406981</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406981&amp;type=vilet&amp;lang=ru" class="owTrig">ЧЕЛЯБИНСК - НОВОСИБИРСК</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=6023488" class="ac_logo"><img class="shadow_img" src="/airport/logo4/2G.gif" height="30px" alt="АНГАРА" title="АНГАРА" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>A81<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>12:40<div id="serc" style="display: none;">12-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                12:40        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-CHELYABINSK - NOVOSIBIRSK<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 14:00/<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ИК<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> AGU<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> 2G<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>ПЕНЗА</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406988&amp;type=vilet&amp;lang=ru" class="owTrig"> 						ДТ 241<!-- номер рейса --> 						<span id="d_id" style="display:none">9406988</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406988&amp;type=vilet&amp;lang=ru" class="owTrig">ПЕНЗА</span><!-- город прилета --></td>
+            <td>
+                <a href="" onclick="return false;" class="ac_logo"><img class="shadow_img" src="/airport/logo4/DXT.gif" height="30px" alt="АВИА МЕНЕДЖМЕНТ ГРУПП" title="АВИА МЕНЕДЖМЕНТ ГРУПП" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>PC12<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>13:10<div id="serc" style="display: none;">13-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                13:10        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-PENZA<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 14:20<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ДТ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> DXT<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> DXT<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>АСТАНА</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406990&amp;type=vilet&amp;lang=ru" class="owTrig"> 						DV 828<!-- номер рейса --> 						<span id="d_id" style="display:none">9406990</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406990&amp;type=vilet&amp;lang=ru" class="owTrig">АСТАНА</span><!-- город прилета --></td>
+            <td>
+                <img class="shadow_img" src="/airport/logo2/tail.gif" height="30px" alt="СКАТ" title="СКАТ" '="">            </td>
+            <td>CRJ2<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>13:20<div id="serc" style="display: none;">13-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                13:20        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-ASTANA<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 15:40<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ДН<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> VSV<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> DV<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>САМАРА</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406989&amp;type=vilet&amp;lang=ru" class="owTrig"> 						УЭ 41<!-- номер рейса --> 						<span id="d_id" style="display:none">9406989</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406989&amp;type=vilet&amp;lang=ru" class="owTrig">САМАРА</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2586010" class="ac_logo"><img class="shadow_img" src="/airport/logo4/O7.gif" height="30px" alt="АЭРОПОРТ ОРЕНБУРГ" title="АЭРОПОРТ ОРЕНБУРГ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>L410<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>13:50<div id="serc" style="display: none;">13-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                13:50        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-SAMARA<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 14:55<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> УЭ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> O7<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> O7<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>УФА - СУРГУТ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406991&amp;type=vilet&amp;lang=ru" class="owTrig"> 						ЮТ 104<!-- номер рейса --> 						<span id="d_id" style="display:none">9406991</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406991&amp;type=vilet&amp;lang=ru" class="owTrig">УФА - СУРГУТ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585998" class="ac_logo"><img class="shadow_img" src="/airport/logo4/UT.gif" height="30px" alt="ЮТЭЙР" title="ЮТЭЙР" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>AT72<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>14:00<div id="serc" style="display: none;">14-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                14:00        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-UFA - SURGUT<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 15:20/<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ЮТ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> UTA<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> UT<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ВНК</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406992&amp;type=vilet&amp;lang=ru" class="owTrig"> 						ЮТ 326<!-- номер рейса --> 						<span id="d_id" style="display:none">9406992</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406992&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ВНК</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585998" class="ac_logo"><img class="shadow_img" src="/airport/logo4/UT.gif" height="30px" alt="ЮТЭЙР" title="ЮТЭЙР" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>B735<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>15:25<div id="serc" style="display: none;">15-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                15:25        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW VKO<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 16:50<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ЮТ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> UTA<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> UT<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>НИЖНИЙ НОВГОРОД</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406994&amp;type=vilet&amp;lang=ru" class="owTrig"> 						ЮВ 539<!-- номер рейса --> 						<span id="d_id" style="display:none">9406994</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406994&amp;type=vilet&amp;lang=ru" class="owTrig">НИЖНИЙ НОВГОРОД</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=7564165" class="ac_logo"><img class="shadow_img" src="/airport/logo4/UVT.gif" height="30px" alt="ЮВТ АЭРО" title="ЮВТ АЭРО" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>CRJ2<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>16:00<div id="serc" style="display: none;">16-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                16:00        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-NIZHNIY NOVGOROD<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 17:00<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ЮВ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> UVT<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> UVT<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ДМД</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406993&amp;type=vilet&amp;lang=ru" class="owTrig"> 						S7 66<!-- номер рейса --> 						<span id="d_id" style="display:none">9406993</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406993&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ДМД</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585989" class="ac_logo"><img class="shadow_img" src="/airport/logo4/S7.gif" height="30px" alt="ОАО АВИАКОМПАНИЯ СИБИРЬ" title="ОАО АВИАКОМПАНИЯ СИБИРЬ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>A319<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>17:00<div id="serc" style="display: none;">17-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                17:00        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW DME<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 18:45<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> С7<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> SBI<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> S7<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>ОРЕНБУРГ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406995&amp;type=vilet&amp;lang=ru" class="owTrig"> 						УЭ 78<!-- номер рейса --> 						<span id="d_id" style="display:none">9406995</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406995&amp;type=vilet&amp;lang=ru" class="owTrig">ОРЕНБУРГ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2586010" class="ac_logo"><img class="shadow_img" src="/airport/logo4/O7.gif" height="30px" alt="АЭРОПОРТ ОРЕНБУРГ" title="АЭРОПОРТ ОРЕНБУРГ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>L410<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>18:00<div id="serc" style="display: none;">18-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                18:00        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-ORENBURG<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 20:00<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> УЭ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> O7<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> O7<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ШРМ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9407001&amp;type=vilet&amp;lang=ru" class="owTrig"> 						SU 1193<!-- номер рейса --> 						<span id="d_id" style="display:none">9407001</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9407001&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ШРМ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585992" class="ac_logo"><img class="shadow_img" src="/airport/logo4/SU.gif" height="30px" alt="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" title="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>A320<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>18:15<div id="serc" style="display: none;">18-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                18:15        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW SVO<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 19:55<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> СУ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> AFL<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> SU<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>ЕКАТЕРИНБУРГ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9407000&amp;type=vilet&amp;lang=ru" class="owTrig"> 						РГ 862<!-- номер рейса --> 						<span id="d_id" style="display:none">9407000</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9407000&amp;type=vilet&amp;lang=ru" class="owTrig">ЕКАТЕРИНБУРГ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585995" class="ac_logo"><img class="shadow_img" src="/airport/logo4/7R.gif" height="30px" alt="РУСЛАЙН" title="РУСЛАЙН" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>CRJ2<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>19:25<div id="serc" style="display: none;">19-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                19:25        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-EKATERINBURG<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 20:45<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> РГ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> RLU<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> 7R<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ДМД</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406999&amp;type=vilet&amp;lang=ru" class="owTrig"> 						S7 80<!-- номер рейса --> 						<span id="d_id" style="display:none">9406999</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406999&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ДМД</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585989" class="ac_logo"><img class="shadow_img" src="/airport/logo4/S7.gif" height="30px" alt="ОАО АВИАКОМПАНИЯ СИБИРЬ" title="ОАО АВИАКОМПАНИЯ СИБИРЬ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>A319<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>19:50<div id="serc" style="display: none;">19-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                19:50        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW DME<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 21:35<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> С7<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> SBI<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> S7<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ШРМ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406998&amp;type=vilet&amp;lang=ru" class="owTrig"> 						SU 1195<!-- номер рейса --> 						<span id="d_id" style="display:none">9406998</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406998&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ШРМ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585992" class="ac_logo"><img class="shadow_img" src="/airport/logo4/SU.gif" height="30px" alt="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" title="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>A320<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>20:35<div id="serc" style="display: none;">20-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                20:35        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW SVO<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 22:10<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> СУ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> AFL<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> SU<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>БИШКЕК</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406997&amp;type=vilet&amp;lang=ru" class="owTrig"> 						YK 858<!-- номер рейса --> 						<span id="d_id" style="display:none">9406997</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406997&amp;type=vilet&amp;lang=ru" class="owTrig">БИШКЕК</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585996" class="ac_logo"><img class="shadow_img" src="/airport/logo4/YK.gif" height="30px" alt="АВИА ТРАФФИК КОМПАНИ" title="АВИА ТРАФФИК КОМПАНИ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>B733<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>21:30<div id="serc" style="display: none;">21-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                21:30        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-BISHKEK<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 09.02.2016 01:45<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ТФ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> AVJ<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> YK<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ДМД</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406996&amp;type=vilet&amp;lang=ru" class="owTrig"> 						S7 64<!-- номер рейса --> 						<span id="d_id" style="display:none">9406996</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9406996&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ДМД</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585989" class="ac_logo"><img class="shadow_img" src="/airport/logo4/S7.gif" height="30px" alt="ОАО АВИАКОМПАНИЯ СИБИРЬ" title="ОАО АВИАКОМПАНИЯ СИБИРЬ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>A319<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>21:50<div id="serc" style="display: none;">21-08</div><!-- Время дата --></td>
+			<td>
+								08.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                21:50        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW DME<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 08.02.2016 23:35<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> С7<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> SBI<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> S7<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                                                                                                                                                                                                                                                                                                
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>СТАМБУЛ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411750&amp;type=vilet&amp;lang=ru" class="owTrig"> 						TK 428<!-- номер рейса --> 						<span id="d_id" style="display:none">9411750</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411750&amp;type=vilet&amp;lang=ru" class="owTrig">СТАМБУЛ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585990" class="ac_logo"><img class="shadow_img" src="/airport/logo4/TK.gif" height="30px" alt="ТУРЕЦКИЕ АВИАЛИНИИ" title="ТУРЕЦКИЕ АВИАЛИНИИ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>B738<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>03:05<div id="serc" style="display: none;">03-09</div><!-- Время дата --></td>
+			<td>
+								09.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                03:05        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-ISTANBUL<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 09.02.2016 07:15<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ТК<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> THY<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> TK<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>САНКТ ПЕТЕРБУРГ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411751&amp;type=vilet&amp;lang=ru" class="owTrig"> 						ПЛ 6766<!-- номер рейса --> 						<span id="d_id" style="display:none">9411751</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411751&amp;type=vilet&amp;lang=ru" class="owTrig">САНКТ ПЕТЕРБУРГ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2586001" class="ac_logo"><img class="shadow_img" src="/airport/logo4/FV.gif" height="30px" alt="РОССИЯ" title="РОССИЯ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>A319<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>04:15<div id="serc" style="display: none;">04-09</div><!-- Время дата --></td>
+			<td>
+								09.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                04:15        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-ST.PETERSBURG<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 09.02.2016 06:25<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ПЛ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> SDM<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> FV<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ШРМ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411752&amp;type=vilet&amp;lang=ru" class="owTrig"> 						SU 1197<!-- номер рейса --> 						<span id="d_id" style="display:none">9411752</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411752&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ШРМ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585992" class="ac_logo"><img class="shadow_img" src="/airport/logo4/SU.gif" height="30px" alt="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" title="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>A320<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>05:00<div id="serc" style="display: none;">05-09</div><!-- Время дата --></td>
+			<td>
+								09.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                05:00        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW SVO<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 09.02.2016 06:30<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> СУ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> AFL<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> SU<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ДМД</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411753&amp;type=vilet&amp;lang=ru" class="owTrig"> 						S7 70<!-- номер рейса --> 						<span id="d_id" style="display:none">9411753</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411753&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ДМД</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585989" class="ac_logo"><img class="shadow_img" src="/airport/logo4/S7.gif" height="30px" alt="ОАО АВИАКОМПАНИЯ СИБИРЬ" title="ОАО АВИАКОМПАНИЯ СИБИРЬ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>A319<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>06:20<div id="serc" style="display: none;">06-09</div><!-- Время дата --></td>
+			<td>
+								09.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                06:20        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW DME<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 09.02.2016 08:05<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> С7<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> SBI<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> S7<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>САНКТ ПЕТЕРБУРГ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411754&amp;type=vilet&amp;lang=ru" class="owTrig"> 						ЮВ 521<!-- номер рейса --> 						<span id="d_id" style="display:none">9411754</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411754&amp;type=vilet&amp;lang=ru" class="owTrig">САНКТ ПЕТЕРБУРГ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=7564165" class="ac_logo"><img class="shadow_img" src="/airport/logo4/UVT.gif" height="30px" alt="ЮВТ АЭРО" title="ЮВТ АЭРО" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>CRJ2<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>06:55<div id="serc" style="display: none;">06-09</div><!-- Время дата --></td>
+			<td>
+								09.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                06:55        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-ST.PETERSBURG<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 09.02.2016 09:15<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ЮВ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> UVT<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> UVT<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ВНК</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411755&amp;type=vilet&amp;lang=ru" class="owTrig"> 						ЮТ 344<!-- номер рейса --> 						<span id="d_id" style="display:none">9411755</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411755&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ВНК</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585998" class="ac_logo"><img class="shadow_img" src="/airport/logo4/UT.gif" height="30px" alt="ЮТЭЙР" title="ЮТЭЙР" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>B735<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>07:15<div id="serc" style="display: none;">07-09</div><!-- Время дата --></td>
+			<td>
+								09.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                07:15        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW VKO<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 09.02.2016 08:55<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ЮТ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> UTA<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> UT<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>НИЖНИЙ НОВГОРОД</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411756&amp;type=vilet&amp;lang=ru" class="owTrig"> 						ЮВ 539<!-- номер рейса --> 						<span id="d_id" style="display:none">9411756</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411756&amp;type=vilet&amp;lang=ru" class="owTrig">НИЖНИЙ НОВГОРОД</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=7564165" class="ac_logo"><img class="shadow_img" src="/airport/logo4/UVT.gif" height="30px" alt="ЮВТ АЭРО" title="ЮВТ АЭРО" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>CRJ2<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>08:10<div id="serc" style="display: none;">08-09</div><!-- Время дата --></td>
+			<td>
+								09.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                08:10        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-NIZHNIY NOVGOROD<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 09.02.2016 09:00<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ЮВ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> UVT<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> UVT<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ШРМ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411757&amp;type=vilet&amp;lang=ru" class="owTrig"> 						SU 1271<!-- номер рейса --> 						<span id="d_id" style="display:none">9411757</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411757&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ШРМ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585992" class="ac_logo"><img class="shadow_img" src="/airport/logo4/SU.gif" height="30px" alt="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" title="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>A320<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>08:55<div id="serc" style="display: none;">08-09</div><!-- Время дата --></td>
+			<td>
+								09.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                08:55        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW SVO<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 09.02.2016 10:30<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> СУ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> AFL<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> SU<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>КИРОВ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411758&amp;type=vilet&amp;lang=ru" class="owTrig"> 						УЭ 45<!-- номер рейса --> 						<span id="d_id" style="display:none">9411758</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411758&amp;type=vilet&amp;lang=ru" class="owTrig">КИРОВ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2586010" class="ac_logo"><img class="shadow_img" src="/airport/logo4/O7.gif" height="30px" alt="АЭРОПОРТ ОРЕНБУРГ" title="АЭРОПОРТ ОРЕНБУРГ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>L410<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>10:05<div id="serc" style="display: none;">10-09</div><!-- Время дата --></td>
+			<td>
+								09.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                10:05        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-KIROV<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 09.02.2016 11:15<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> УЭ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> O7<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> O7<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ШРМ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411759&amp;type=vilet&amp;lang=ru" class="owTrig"> 						SU 1277<!-- номер рейса --> 						<span id="d_id" style="display:none">9411759</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411759&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ШРМ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585992" class="ac_logo"><img class="shadow_img" src="/airport/logo4/SU.gif" height="30px" alt="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" title="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>A320<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>10:55<div id="serc" style="display: none;">10-09</div><!-- Время дата --></td>
+			<td>
+								09.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                10:55        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW SVO<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 09.02.2016 12:30<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> СУ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> AFL<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> SU<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>ТАШКЕНТ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411760&amp;type=vilet&amp;lang=ru" class="owTrig"> 						HY 650<!-- номер рейса --> 						<span id="d_id" style="display:none">9411760</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411760&amp;type=vilet&amp;lang=ru" class="owTrig">ТАШКЕНТ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585991" class="ac_logo"><img class="shadow_img" src="/airport/logo4/HY.gif" height="30px" alt="УЗБЕКИСТОН ХАВО ЙУЛЛАРИ" title="УЗБЕКИСТОН ХАВО ЙУЛЛАРИ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>A320<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>11:00<div id="serc" style="display: none;">11-09</div><!-- Время дата --></td>
+			<td>
+								09.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                11:00        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-TASHKENT<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 09.02.2016 14:20<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ХИ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> UZB<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> HY<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ДМД</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411761&amp;type=vilet&amp;lang=ru" class="owTrig"> 						S7 62<!-- номер рейса --> 						<span id="d_id" style="display:none">9411761</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411761&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ДМД</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585989" class="ac_logo"><img class="shadow_img" src="/airport/logo4/S7.gif" height="30px" alt="ОАО АВИАКОМПАНИЯ СИБИРЬ" title="ОАО АВИАКОМПАНИЯ СИБИРЬ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>A320<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>12:00<div id="serc" style="display: none;">12-09</div><!-- Время дата --></td>
+			<td>
+								09.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                12:00        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW DME<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 09.02.2016 13:45<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> С7<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> SBI<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> S7<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>ПЕРМЬ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411762&amp;type=vilet&amp;lang=ru" class="owTrig"> 						ЮВ 577<!-- номер рейса --> 						<span id="d_id" style="display:none">9411762</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411762&amp;type=vilet&amp;lang=ru" class="owTrig">ПЕРМЬ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=7564165" class="ac_logo"><img class="shadow_img" src="/airport/logo4/UVT.gif" height="30px" alt="ЮВТ АЭРО" title="ЮВТ АЭРО" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>CRJ2<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>12:10<div id="serc" style="display: none;">12-09</div><!-- Время дата --></td>
+			<td>
+								09.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                12:10        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-PERM<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 09.02.2016 13:10<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ЮВ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> UVT<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> UVT<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ШРМ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411763&amp;type=vilet&amp;lang=ru" class="owTrig"> 						SU 1191<!-- номер рейса --> 						<span id="d_id" style="display:none">9411763</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411763&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ШРМ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585992" class="ac_logo"><img class="shadow_img" src="/airport/logo4/SU.gif" height="30px" alt="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" title="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>A320<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>12:20<div id="serc" style="display: none;">12-09</div><!-- Время дата --></td>
+			<td>
+								09.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                12:20        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW SVO<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 09.02.2016 13:50<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> СУ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> AFL<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> SU<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>САМАРА</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411764&amp;type=vilet&amp;lang=ru" class="owTrig"> 						УЭ 41<!-- номер рейса --> 						<span id="d_id" style="display:none">9411764</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411764&amp;type=vilet&amp;lang=ru" class="owTrig">САМАРА</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2586010" class="ac_logo"><img class="shadow_img" src="/airport/logo4/O7.gif" height="30px" alt="АЭРОПОРТ ОРЕНБУРГ" title="АЭРОПОРТ ОРЕНБУРГ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>L410<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>13:50<div id="serc" style="display: none;">13-09</div><!-- Время дата --></td>
+			<td>
+								09.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                13:50        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-SAMARA<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 09.02.2016 14:55<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> УЭ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> O7<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> O7<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>УФА - СУРГУТ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411765&amp;type=vilet&amp;lang=ru" class="owTrig"> 						ЮТ 104<!-- номер рейса --> 						<span id="d_id" style="display:none">9411765</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411765&amp;type=vilet&amp;lang=ru" class="owTrig">УФА - СУРГУТ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585998" class="ac_logo"><img class="shadow_img" src="/airport/logo4/UT.gif" height="30px" alt="ЮТЭЙР" title="ЮТЭЙР" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>AT72<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>14:00<div id="serc" style="display: none;">14-09</div><!-- Время дата --></td>
+			<td>
+								09.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                14:00        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-UFA - SURGUT<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 09.02.2016 15:10/<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ЮТ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> UTA<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> UT<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>ПЕНЗА</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411766&amp;type=vilet&amp;lang=ru" class="owTrig"> 						ДТ 242<!-- номер рейса --> 						<span id="d_id" style="display:none">9411766</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411766&amp;type=vilet&amp;lang=ru" class="owTrig">ПЕНЗА</span><!-- город прилета --></td>
+            <td>
+                <a href="" onclick="return false;" class="ac_logo"><img class="shadow_img" src="/airport/logo4/DXT.gif" height="30px" alt="АВИА МЕНЕДЖМЕНТ ГРУПП" title="АВИА МЕНЕДЖМЕНТ ГРУПП" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>PC12<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>14:10<div id="serc" style="display: none;">14-09</div><!-- Время дата --></td>
+			<td>
+								09.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                14:10        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-PENZA<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 09.02.2016 15:20<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ДТ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> DXT<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> DXT<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ВНК</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411767&amp;type=vilet&amp;lang=ru" class="owTrig"> 						ЮТ 326<!-- номер рейса --> 						<span id="d_id" style="display:none">9411767</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411767&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ВНК</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585998" class="ac_logo"><img class="shadow_img" src="/airport/logo4/UT.gif" height="30px" alt="ЮТЭЙР" title="ЮТЭЙР" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>B735<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>15:25<div id="serc" style="display: none;">15-09</div><!-- Время дата --></td>
+			<td>
+								09.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                15:25        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW VKO<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 09.02.2016 16:50<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> ЮТ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> UTA<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> UT<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ДМД</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411768&amp;type=vilet&amp;lang=ru" class="owTrig"> 						S7 66<!-- номер рейса --> 						<span id="d_id" style="display:none">9411768</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411768&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ДМД</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585989" class="ac_logo"><img class="shadow_img" src="/airport/logo4/S7.gif" height="30px" alt="ОАО АВИАКОМПАНИЯ СИБИРЬ" title="ОАО АВИАКОМПАНИЯ СИБИРЬ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>A319<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>17:00<div id="serc" style="display: none;">17-09</div><!-- Время дата --></td>
+			<td>
+								09.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                17:00        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW DME<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 09.02.2016 18:45<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> С7<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> SBI<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> S7<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>ТЮМЕНЬ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411769&amp;type=vilet&amp;lang=ru" class="owTrig"> 						РГ 640<!-- номер рейса --> 						<span id="d_id" style="display:none">9411769</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411769&amp;type=vilet&amp;lang=ru" class="owTrig">ТЮМЕНЬ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585995" class="ac_logo"><img class="shadow_img" src="/airport/logo4/7R.gif" height="30px" alt="РУСЛАЙН" title="РУСЛАЙН" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>CRJ2<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>17:40<div id="serc" style="display: none;">17-09</div><!-- Время дата --></td>
+			<td>
+								09.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                17:40        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-TYUMEN<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 09.02.2016 19:25<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> РГ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> RLU<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> 7R<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ШРМ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411770&amp;type=vilet&amp;lang=ru" class="owTrig"> 						SU 1193<!-- номер рейса --> 						<span id="d_id" style="display:none">9411770</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411770&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ШРМ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585992" class="ac_logo"><img class="shadow_img" src="/airport/logo4/SU.gif" height="30px" alt="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" title="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>A320<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>18:15<div id="serc" style="display: none;">18-09</div><!-- Время дата --></td>
+			<td>
+								09.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                18:15        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW SVO<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 09.02.2016 19:55<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> СУ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> AFL<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> SU<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ДМД</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411771&amp;type=vilet&amp;lang=ru" class="owTrig"> 						S7 80<!-- номер рейса --> 						<span id="d_id" style="display:none">9411771</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411771&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ДМД</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585989" class="ac_logo"><img class="shadow_img" src="/airport/logo4/S7.gif" height="30px" alt="ОАО АВИАКОМПАНИЯ СИБИРЬ" title="ОАО АВИАКОМПАНИЯ СИБИРЬ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>A319<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>19:50<div id="serc" style="display: none;">19-09</div><!-- Время дата --></td>
+			<td>
+								09.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                19:50        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW DME<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 09.02.2016 21:35<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> С7<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> SBI<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> S7<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>ДУШАНБЕ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411772&amp;type=vilet&amp;lang=ru" class="owTrig"> 						U6 2989<!-- номер рейса --> 						<span id="d_id" style="display:none">9411772</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411772&amp;type=vilet&amp;lang=ru" class="owTrig">ДУШАНБЕ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2586005" class="ac_logo"><img class="shadow_img" src="/airport/logo4/U6.gif" height="30px" alt="УРАЛЬСКИЕ АВИАЛИНИИ" title="УРАЛЬСКИЕ АВИАЛИНИИ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>A320<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>20:00<div id="serc" style="display: none;">20-09</div><!-- Время дата --></td>
+			<td>
+								09.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                20:00        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-DUSHANBE<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 09.02.2016 23:30<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> У6<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> SVR<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> U6<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ШРМ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411773&amp;type=vilet&amp;lang=ru" class="owTrig"> 						SU 1195<!-- номер рейса --> 						<span id="d_id" style="display:none">9411773</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411773&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ШРМ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585992" class="ac_logo"><img class="shadow_img" src="/airport/logo4/SU.gif" height="30px" alt="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" title="АЭРОФЛОТ - РОССИЙСКИЕ АВИАЛИНИИ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>A320<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>20:35<div id="serc" style="display: none;">20-09</div><!-- Время дата --></td>
+			<td>
+								09.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                20:35        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW SVO<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 09.02.2016 22:10<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> СУ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> AFL<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> SU<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>МОСКВА ДМД</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411774&amp;type=vilet&amp;lang=ru" class="owTrig"> 						S7 64<!-- номер рейса --> 						<span id="d_id" style="display:none">9411774</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411774&amp;type=vilet&amp;lang=ru" class="owTrig">МОСКВА ДМД</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2585989" class="ac_logo"><img class="shadow_img" src="/airport/logo4/S7.gif" height="30px" alt="ОАО АВИАКОМПАНИЯ СИБИРЬ" title="ОАО АВИАКОМПАНИЯ СИБИРЬ" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>A319<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>21:50<div id="serc" style="display: none;">21-09</div><!-- Время дата --></td>
+			<td>
+								09.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                21:50        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-MOSCOW DME<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 09.02.2016 23:35<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> С7<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> SBI<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> S7<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>ПХУКЕТ</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A,2</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411775&amp;type=vilet&amp;lang=ru" class="owTrig"> 						N4 2497<!-- номер рейса --> 						<span id="d_id" style="display:none">9411775</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411775&amp;type=vilet&amp;lang=ru" class="owTrig">ПХУКЕТ</span><!-- город прилета --></td>
+            <td>
+                <a href="/about-us/representation-of-the-airlines/?ELEMENT_ID=2586015" class="ac_logo"><img class="shadow_img" src="/airport/logo4/N4.gif" height="30px" alt="СЕВЕРНЫЙ ВЕТЕР" title="СЕВЕРНЫЙ ВЕТЕР" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>B763<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>22:30<div id="serc" style="display: none;">22-09</div><!-- Время дата --></td>
+			<td>
+								09.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                22:30        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-PHUKET<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 10.02.2016 07:25<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> КЛ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> NWS<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> N4<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                    <tr class="vilet_r" style="display: table-row;">
+            
+                        <!--<td class="gorod" style="visibility:none;>ХУДЖАНД</td>-->
+			<td><a href="/for-passengers-and-guests/scheme-terminalo/">1A</a><!-- терминал --></td>
+            <td><div class="img_state" style="background-position: -1000px -1000px ;"></div><!-- статус --></td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411776&amp;type=vilet&amp;lang=ru" class="owTrig"> 						SZ 258<!-- номер рейса --> 						<span id="d_id" style="display:none">9411776</span></span>
+			</td>
+			<td class="numr"><span alink="/for-passengers-and-guests/on-line-schedule/detail.php?ELEMENT_ID=9411776&amp;type=vilet&amp;lang=ru" class="owTrig">ХУДЖАНД</span><!-- город прилета --></td>
+            <td>
+                <a href="" onclick="return false;" class="ac_logo"><img class="shadow_img" src="/airport/logo4/SZ.gif" height="30px" alt="СОМОН ЭЙР" title="СОМОН ЭЙР" '=""><span class="shdw">&nbsp;</span></a>            </td>
+            <td>B733<!-- тип в/с --></td>
+			<!--<td>--><!-- тип рейса --><!--</td>-->
+    			<td>23:30<div id="serc" style="display: none;">23-09</div><!-- Время дата --></td>
+			<td>
+								09.02			</td>
+
+            <td class="tot">
+                                <img src="//kazan.aero.images.1c-bitrix-cdn.ru/bitrix/templates/ru_aero/images/img/grenn_clock.png?1369826085" style="height:25px" alt="clock">                23:30        <div class="table_hide1">
+                <span class="table_blue">Маршрут:</span> KAZAN-KHUDZHAND<!-- Маршрут EN --><br>
+                <span class="table_blue">Плановое время прилета в аэропорт назначения:</span> 10.02.2016 02:50<!-- План вылета --><br>
+                <span class="table_blue">Фактическое время прилета в аэропорт назначения:</span> <!-- Факт вылета --><br>
+                <span class="table_blue">SIRENA код а/к:</span> СЗ<!-- SIRENA код а/к --><br>
+                <span class="table_blue">ICAO код а/к:</span> SMR<!-- ICAO код а/к --><br>
+                <span class="table_blue">IATA код а/к:</span> SZ<!-- IATA код а/к -->
+        </div>
+            </td>
+        </tr>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+  
+    </tbody></table>
